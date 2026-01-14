@@ -1,4 +1,4 @@
-# Social-Media-Downloader-App-WEB-FRONTEND
+# Social-Media-Downloader (Frontend)
 It is the web frontend for the social media media downloader apps.
 
 ## Usage
